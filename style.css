@@ -1,7 +1,6 @@
 body{
     margin: 0px;
     padding: 0px;
-    height: 5000px;
 
 
 }
@@ -55,11 +54,17 @@ margin-right: 40px;
 .searchItems{
 height: 40px;
 width: 110vh;
+border: 2px solid black;
+border-top-left-radius: 5px;
+border-end-start-radius: 5px;
 
 }
 .inputLocation{
     height: 40px;
     width: 45vh;
+    border: 2px solid black;
+    border-radius: 5px;
+
    
 }
 .searchBtn{
@@ -68,10 +73,9 @@ width: 110vh;
     display: flex;
     justify-content: center;
     align-items: center;
-
     border: 1px solid black;
     width: 40px;
-
+    border-radius: 5px;
 }
 .sellBtn{
     height: 40px;
@@ -95,6 +99,30 @@ font-family: Arial, Helvetica, sans-serif;
 }
 .searchImg{
     height: 40px;
+    border-end-end-radius: 5px;
+    border-top-right-radius: 5px;
 
 
+}
+main{
+    margin-top: 130px;
+}
+.categories{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
+    
+}
+.hr{
+    border-top: 1px solid #ebf2fd;
+}
+.addImg{
+    height: 200px;
+    width: 200vh
+}
+.addImgFlex{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
 }
