@@ -148,3 +148,48 @@ margin-right: 40px;
   text-align: center;
   text-transform: capitalize;
 }
+.flexCard{
+display: flex;
+gap: 15px;
+margin-left: 40px;
+margin-right: 40px;
+margin-bottom: 80px;
+
+
+
+}
+.Card{
+
+  max-width:24% ;
+  height: 55vh;
+  border:  1px solid #ccd5d6; 
+  border-radius: 5px;
+}
+.cardImg{
+  border-start-end-radius: 5px;
+  border-start-start-radius: 5px;
+
+}
+.cardRs{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+}
+.CardTitle{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.CardAddress{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  color: #456391;
+  margin-left: 20px;
+}
+.Cardtxt{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 170px;
+
+}
