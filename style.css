@@ -50,7 +50,7 @@ header {
 }
 .searchItems {
   height: 40px;
-  width: 110vh;
+  width: 90vh;
   border: 2px solid black;
   border-top-left-radius: 5px;
   border-end-start-radius: 5px;
@@ -161,7 +161,7 @@ margin-bottom: 80px;
 .Card{
 
   max-width:24% ;
-  height: 55vh;
+  height: 60vh;
   border:  1px solid #ccd5d6; 
   border-radius: 5px;
 }
@@ -193,3 +193,6 @@ margin-bottom: 80px;
   height: 170px;
 
 }
+
+
+
