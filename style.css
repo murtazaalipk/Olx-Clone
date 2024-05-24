@@ -164,7 +164,7 @@ margin-right: 40px;
 
 .Card {
   flex: 0 0 calc(50% - 20px); 
-  max-width: 400px; 
+  max-width: 271px; 
   height: auto; 
   border: 1px solid #ccd5d6;
   border-radius: 5px;
